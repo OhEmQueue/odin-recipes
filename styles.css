@@ -1,0 +1,25 @@
+* {
+    text-align: center;
+    margin: 0 auto;
+}
+
+body {
+    background-color: aliceblue;
+    color: #333;
+}
+
+h1 {
+    margin: 25px 0;
+}
+
+img {
+    margin: 25px 0;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
+
+#last-p {
+    margin-bottom: 25px;
+}
